@@ -1,0 +1,100 @@
+/* STANDART THEME */
+body.standart-theme{
+    --color-text-fff: #fff;
+    --color-text-light: #b9b9b9;
+    --color-text-medium: #9f9e9e;
+    --color-text-dark: #6e6e6e;
+    --color-text-black: #2d2d2d;
+
+    --color-contrast: #ca600f;
+    --color-contrast-hover: #e35509;
+    --color-uncorrect: #aa2020;
+
+    --color-background: #272727;
+    --color-background-dark: #212121;
+}
+
+/* DARK THEME */
+
+body.dark-theme{
+    --color-text-fff: #fff;
+    --color-text-light: #a7a7a7;
+    --color-text-medium: #5f5f5f;
+    --color-text-dark: #414141;
+    --color-text-black: #1a1919;
+
+    --color-contrast: #a4a4a4;
+    --color-contrast-hover: #c2c2c2;
+    --color-uncorrect: #aa2020;
+
+    --color-background: #1d1d1f;
+    --color-background-dark: #151515;
+}
+
+/* BLACK THEME */
+
+body.black-theme{
+    --color-text-fff: #fff;
+    --color-text-light: #dcdcdc;
+    --color-text-medium: #cdc9c9;
+    --color-text-dark: #b6b4b4;
+    --color-text-black: #484848;
+
+    --color-contrast: #838383;
+    --color-contrast-hover: #c2c2c2;
+    --color-uncorrect: #aa2020;
+
+    --color-background: #121212;
+    --color-background-dark: #000000;
+}
+
+/* HACK THEME */
+
+body.hack-theme{
+    --color-text-fff: rgb(38, 255, 0);
+    --color-text-light: #15d300;
+    --color-text-medium: #40c211;
+    --color-text-dark: #238400;
+    --color-text-black: #0c5700;
+
+    --color-contrast: #056b20;
+    --color-contrast-hover: #007f08;
+    --color-uncorrect: #aa2020;
+
+    --color-background: #121212;
+    --color-background-dark: #000000;
+}
+
+/* TECHNO THEME */
+
+body.techno-theme{
+    --color-text-fff: #fff;
+    --color-text-light: #ffc118;
+    --color-text-medium: #ebb723;
+    --color-text-dark: #b68c19;
+    --color-text-black: rgb(64, 63, 11);
+
+    --color-contrast: #1d978d;
+    --color-contrast-hover: #35cfc2;
+    --color-uncorrect: #cf1f1f;
+
+    --color-background: #132237;
+    --color-background-dark: #0e1a2a;
+}
+
+/* LIGHT THEME */
+
+body.light-theme{
+    --color-text-fff: #fff;
+    --color-text-light: #a9a185;
+    --color-text-medium: #99947f;
+    --color-text-dark: #716c58;
+    --color-text-black: #5e5c56;
+
+    --color-contrast: #1f2121;
+    --color-contrast-hover: #0f1010;
+    --color-uncorrect: #aa2020;
+
+    --color-background: #eeebe2;
+    --color-background-dark: #c9c4b6;
+}
